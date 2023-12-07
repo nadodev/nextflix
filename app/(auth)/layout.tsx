@@ -17,7 +17,6 @@ export default function AuthLayout({children}: {children: ReactNode} )
                 md:justify-center
                 md:bg-transparent
             ">
-            <h1>aqui é a pagina layout</h1>
             <Image
                 src={BackgroundImage}
                 alt="background image"

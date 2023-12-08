@@ -21,7 +21,7 @@ export default function SignUpPage() {
         md:px-14
       ">
        <form action="#">
-        <h1 className='text-3xl font-semibold text-white'>Sign Up</h1>
+        <h2 className='text-3xl font-semibold text-white'>Sign Up</h2>
         <div className="space-y-4 mt-5">
             <Input
                 type="email"
